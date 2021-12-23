@@ -1,4 +1,4 @@
-package com.andrei;
+package project_euler;
 
 public class SixTask {
 

@@ -1,4 +1,4 @@
-package com.andrei;
+package project_euler;
 
 import org.junit.Assert;
 import org.junit.Test;
